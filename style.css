@@ -1,0 +1,37 @@
+html{
+    background-color: #f26500;
+}
+body{
+    background-color:#ffa15e ;
+}
+#yourSketch{
+font-size: 25;
+font-weight: bold;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#confidence{
+    font-size: 25;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+#score{
+    font-size: 35;
+    font-weight:900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+#guessedSketch{
+    font-size: 30;
+    font-weight: bolder;
+    color: green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#head1{
+    font-size: 40;
+    font-weight: bolder;
+    color: yellow;
+    background-color: green;
+}
